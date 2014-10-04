@@ -1,0 +1,9 @@
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\bin\Debug\RobloxSteamLauncher.exe.config
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\bin\Debug\RobloxSteamLauncher.exe
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\bin\Debug\RobloxSteamLauncher.pdb
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.Properties.Resources.resources
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.csproj.GenerateResource.Cache
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.exe
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.pdb
+C:\Users\Maxwell\Desktop\RobloxSteamLauncher\RobloxSteamLauncher\obj\Debug\RobloxSteamLauncher.RbxSteam.resources
