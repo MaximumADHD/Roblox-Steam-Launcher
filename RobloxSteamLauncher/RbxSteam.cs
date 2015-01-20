@@ -32,9 +32,7 @@ namespace RobloxSteamLauncher
             int count = 0;
             if (version != null)
             {
-                List<string> paths = new List<string>(
-                    new string[]  { "Roblox", "Versions", version, "RobloxPlayerBeta.exe" }
-                );
+                List<string> paths = new List<string>() { "Roblox", "Versions", version, "RobloxPlayerBeta.exe" }
                 foreach (string path in paths)
                 {   string nextDir = Path.Combine(myDir, path);
                     bool isExe = path.Contains("exe");
